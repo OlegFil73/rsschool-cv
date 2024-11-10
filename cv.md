@@ -8,8 +8,21 @@
 ***
 ## About me
 At this stage, my goal is to master the skills necessary for Frontend development.
-
+***
 ## Skills
 * HTML
 * CSS
 * Git
+***
+
+## Example code
+```
+function multiply(a, b){
+  return a * b;
+}
+```
+***
+
+## Experience
+No
+***
