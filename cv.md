@@ -26,3 +26,11 @@ function multiply(a, b){
 ## Experience
 No
 ***
+
+## Education
+Penza State University, electrical engineer
+***
+
+## English language
+A1
+***
